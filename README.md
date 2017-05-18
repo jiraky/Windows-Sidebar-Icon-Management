@@ -6,7 +6,7 @@
 - Folder Name     `__FOLDER_NAME__`
 - Folder Path     `__ABS_FOLDER_PATH__`
 
-##DO NOT CHANGE
+## DO NOT CHANGE
 - Explorer GUID   `{0E5AAE11-A475-4c5b-AB00-C66DE400274E}` (Needed in order to correctly open the folder in explorer.exe)
 
 
